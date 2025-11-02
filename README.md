@@ -87,7 +87,10 @@ This project is licensed under the **MIT License**.
 You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the copyright notice and permission notice are included in all copies or substantial portions of the software.
 
 See the [LICENSE](LICENSE) file for the full text.
-راهنمای فارسی
+.
+.
+.
+### راهنمای فارسی
 معرفی پروژه
 - هدف: مجموعه‌ای از تمرین‌های کوچک برای درس «معماری داده و الگوریتم‌ها».
 - ساختار: هر تمرین در قالب یک ماژول پایتونی جداگانه قرار دارد و فایل main.py به‌عنوان لانچر برای اجرای تعاملی تمرین‌ها استفاده می‌شود.
@@ -103,5 +106,6 @@ python mini_homeworks/main.py
 - طراحی ماژولار: هر تمرین در فایل جداگانه.
 - Importهای تمیز: از طریق __init__.py قابل دسترسی هستند.
 - لانچر تعاملی: اجرای آسان از طریق main.py.
+
 
 
