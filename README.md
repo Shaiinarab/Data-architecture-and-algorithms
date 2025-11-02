@@ -49,16 +49,27 @@
 
 ## Project structure
 mini_homeworks/
+
 │
+
 ├── __init__.py
+
 ├── main.py
+
 ├── hw1_insert_sorted.py
+
 ├── hw2_min_max.py
+
 ├── hw3_merge_lists.py
+
 ├── hw4_middle_element.py
+
 ├── hw5_linked_merge.py
+
 ├── hw6_linked_middle.py
+
 ├── hw7_palindrome.py
+
 └── hw8_brackets.py
 
 
@@ -92,4 +103,5 @@ python mini_homeworks/main.py
 - طراحی ماژولار: هر تمرین در فایل جداگانه.
 - Importهای تمیز: از طریق __init__.py قابل دسترسی هستند.
 - لانچر تعاملی: اجرای آسان از طریق main.py.
+
 
