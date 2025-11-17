@@ -1,4 +1,4 @@
-# 📝 Mini homeworks – Data architecture & algorithms
+# 📝 Mini homeworks – Data structure & intro to algorithms
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)]()
