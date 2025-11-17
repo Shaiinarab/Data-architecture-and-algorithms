@@ -1,5 +1,5 @@
 # main.py
-# Launcher for Shahin Arab's Data Architecture & Algorithms Homeworks
+# Launcher for Shahin Arab's Data Structure & intro to Algorithms Homeworks
 
 from mini_homeworks import (
     insert_sorted, find_min_max, merge_sorted, middle_element,
@@ -10,7 +10,7 @@ from mini_homeworks import (
 def banner():
     print("=" * 60)
     print("🌟 Shahin Arab | Student No: 401433113 🌟".center(60))
-    print(" Data Architecture & Algorithms Mini Homeworks ".center(60))
+    print(" Data structures & intro to Algorithms Mini Homeworks ".center(60))
     print("=" * 60)
 
 def menu():
