@@ -1,6 +1,3 @@
-Here’s a polished and **updated README.md** that reflects your new modules (`hw9_parking_queue`, `hw10_trees`), the corrected repo layout (with `main.py` at the root), and a clearer bilingual guide:
-
-```markdown
 # 📝 Mini Homeworks – Data Structures & Intro to Algorithms
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,7 +45,7 @@ Here’s a polished and **updated README.md** that reflects your new modules (`h
 3. **Run launcher from repo root:**
    ```bash
    python main.py
-   ```
+
 4. **Use menu:** Pick any homework to execute from the interactive menu.
 
 ---
@@ -71,6 +68,7 @@ Data_Structure_And_Intro_To_Algorithms.CLRS/
 │   ├── hw9_parking_queue.py
 │   └── hw10_trees.py
 └── test_mini_homeworks.py
+
 ```
 
 ---
